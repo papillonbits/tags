@@ -1,0 +1,1 @@
+export { MultiTagCard } from './MultiTagCard'
