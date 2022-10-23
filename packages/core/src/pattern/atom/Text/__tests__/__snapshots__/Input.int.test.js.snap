@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> Render must match regular 1`] = `
+<div>
+  <input
+    class="input"
+    placeholder="Enter new text here"
+    value=""
+  />
+</div>
+`;

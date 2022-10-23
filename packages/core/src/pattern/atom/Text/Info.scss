@@ -1,0 +1,15 @@
+/* stylelint-disable function-no-unknown */
+@import '../../../style/index';
+
+.info {
+  font-family: $font-family-primary;
+  color: lighten($color-grey, 10);
+
+  &Small {
+    font-size: $font-size-small;
+  }
+
+  &Medium {
+    font-size: $font-size-medium;
+  }
+}

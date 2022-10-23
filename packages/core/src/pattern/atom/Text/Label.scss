@@ -1,0 +1,20 @@
+/* stylelint-disable function-no-unknown */
+@import '../../../style/index';
+
+.label {
+  display: inline-block;
+  text-align: center;
+  font-family: $font-family-primary;
+  color: lighten($color-text-title, 50);
+  background-color: $color-fill-white;
+  white-space: nowrap;
+  padding: 0;
+
+  &Small {
+    font-size: $font-size-small;
+  }
+
+  &Medium {
+    font-size: $font-size-medium;
+  }
+}
