@@ -1,0 +1,39 @@
+@import '../../../style/index';
+
+.multiTag {
+  width: 24em;
+  border-style: solid;
+  margin-left: 10px;
+
+  &Container {
+    margin-left: 10px;
+  }
+
+  &IntroTitle {
+    margin-bottom: 10px;
+  }
+
+  &IntroDescription {
+    margin-bottom: 20px;
+  }
+
+  &MailsTitle {
+    margin-bottom: 3px;
+  }
+
+  &Telephones {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+
+  &TelephonesTitle {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+
+  &TelephonesInput {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
