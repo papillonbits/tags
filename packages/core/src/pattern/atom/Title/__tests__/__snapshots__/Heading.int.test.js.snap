@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Heading /> Render must match h1 1`] = `
+<div>
+  <span
+    class="heading headingH1"
+  >
+    some heading
+  </span>
+</div>
+`;
+
+exports[`<Heading /> Render must match h2 1`] = `
+<div>
+  <span
+    class="heading headingH2"
+  >
+    some heading
+  </span>
+</div>
+`;
+
+exports[`<Heading /> Render must match h3 1`] = `
+<div>
+  <span
+    class="heading headingH3"
+  >
+    some heading
+  </span>
+</div>
+`;
+
+exports[`<Heading /> Render must match h4 1`] = `
+<div>
+  <span
+    class="heading headingH4"
+  >
+    some heading
+  </span>
+</div>
+`;

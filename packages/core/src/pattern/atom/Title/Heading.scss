@@ -1,0 +1,24 @@
+/* stylelint-disable function-no-unknown */
+@import '../../../style';
+
+.heading {
+  font-family: $font-family-primary;
+  margin: 0;
+  color: darken($color-grey, 20);
+
+  &H1 {
+    font-size: $font-size-h1;
+  }
+
+  &H2 {
+    font-size: $font-size-h2;
+  }
+
+  &H3 {
+    font-size: $font-size-h3;
+  }
+
+  &H4 {
+    font-size: $font-size-h4;
+  }
+}
