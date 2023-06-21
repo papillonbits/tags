@@ -6,9 +6,9 @@
 
 /*!
  * @project        tags
- * @name           main.c715e1701b1e780c7280.bundle.js
+ * @name           main.ed8e52895335f1e288d5.bundle.js
  * @author         MTS
- * @copyright      Copyright (c) 2022 MTS
+ * @copyright      Copyright (c) 2023 MTS
  */
 
 /**
