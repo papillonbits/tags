@@ -1,6 +1,0 @@
-/*!
- * @project        tags
- * @name           runtime.44613e18aa3555a3fd38.bundle.js
- * @author         MTS
- * @copyright      Copyright (c) 2023 MTS
- */

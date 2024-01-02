@@ -1,0 +1,6 @@
+/*!
+ * @project        tags
+ * @name           runtime.fa9f6f1594ec01266529.bundle.js
+ * @author         MTS
+ * @copyright      Copyright (c) 2024 MTS
+ */
